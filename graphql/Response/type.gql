@@ -1,0 +1,6 @@
+type Response {
+    success: Boolean!
+    error: Boolean!
+    message: String
+    data: JSON
+}
